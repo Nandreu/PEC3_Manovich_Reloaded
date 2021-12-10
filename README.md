@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-** Recurso de aprendizaje de cultura digital **
+**Recurso de aprendizaje de cultura digital**
 
 Autor: Noé Andreu
 
