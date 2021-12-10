@@ -39,10 +39,12 @@ Podemos hacerlo a través de la página oficial de Stadia o usando la app de Sta
 Mediante esta plataforma, podemos jugar a un videojuego en nuestro ordenador, tableta, teléfono Android o televisión (si dispone de un Chromecast).<br/>
 Para jugar podemos utilizar teclado y ratón, la propia pantalla (si es táctil) o el mando Stadia. Dicho mando podemos conectarlo a cualquier dispositivo compatible para usar la plataforma como el televisor, el ordenador, el teléfono… aunque, exceptuando el caso del televisor, no es vitalmente necesario.
 
-Pero, si las funciones que actualmente podemos dar a Stadia son prometedoras, lo son todavía más algunas novedades que google está preparando.
 
 
 ![stadia-google-logo](https://user-images.githubusercontent.com/95685528/145564855-19019085-e683-46c6-ab36-6d36098c2ef2.jpg)
+
+
+Pero, si las funciones que actualmente podemos dar a Stadia son prometedoras, lo son todavía más algunas novedades que google está preparando.
 
 
 **Modo bridge**
