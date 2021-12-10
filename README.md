@@ -16,7 +16,10 @@ Pues bien, la hibridación de medios es, según Manovich, una combinación de me
 Finalmente, ¿cómo reconocer una de estas hibridaciones?
 Para poder identificarlas, siguiendo los consejos de Manovich, debemos averiguar si suponen una nueva forma de representar un medio o si ofrecen nuevas experiencias a la hora de interactuar con él.
 
+
 Una vez repasadas estas cuestiones, vayamos con los ejemplos escogidos para explicar este proceso:
+
+
 
 
 ## CASO 1: Google Stadia
@@ -26,6 +29,7 @@ Google Stadia es una plataforma de videojuegos en streaming que te permite jugar
 Entenderemos mejor su funcionamiento con un ejemplo. Spotify es una plataforma para reproducir música la cual podemos usar en nuestro móvil, ordenador… pues Stadia es lo mismo, pero en vez de escuchar música, juegas a videojuegos.
 Este servicio dispone de una versión gratuita, en la cual el único coste es el de los juegos, y de una versión PRO, que te ofrece una serie de juegos gratuitos (que van añadiéndose y actualizándose en tu cuenta mes a mes) y de descuentos.
 
+
 **¿Cómo puedo jugar en Stadia?**
 
 Podemos hacerlo a través de la página oficial de Stadia o usando la app de Stadia para Android.
@@ -33,6 +37,7 @@ Mediante esta plataforma, podemos jugar a un videojuego en nuestro ordenador, ta
 Para jugar podemos utilizar teclado y ratón, la propia pantalla (si es táctil) o el mando Stadia. Dicho mando podemos conectarlo a cualquier dispositivo compatible para usar la plataforma como el televisor, el ordenador, el teléfono… aunque, exceptuando el caso del televisor, no es vitalmente necesario.
 
 Pero, si las funciones que actualmente podemos dar a Stadia son prometedoras, lo son todavía más algunas novedades que google está preparando.
+
 
 **Modo bridge**
 
@@ -46,6 +51,7 @@ Aunque todavía no podemos disfrutar de esta función, es tal vez, la parte más
 Resulta de la unión de google con YouTube Gaming y consiste básicamente en la reproducción en directo de nuestras partidas a través de YouTube.
 Con esta función, los espectadores que estén disfrutando de una partida pueden dar un paso más y unirse directamente a ella, pasando a jugar en la propia partida.
 Es decir, a través de esta función podremos estar disfrutando en un directo de YouTube de una partida de nuestro gamer favorito o de uno de nuestros amigos y unirnos a su partida en un momento dado para jugar junto a ellos.
+
 
 Finalmente, resolveremos la pregunta central del ensayo.
 
@@ -64,6 +70,7 @@ Sin duda alguna, google Stadia supone tanto una nueva forma de representar el mu
 
 
 Wallame es una novedosa aplicación móvil que incorpora al mundo de las redes sociales la realidad aumentada y la geolocalización.
+
 
 **¿En qué consiste exactamente?**
 
