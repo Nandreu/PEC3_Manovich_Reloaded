@@ -22,7 +22,7 @@ Para poder identificarlas, siguiendo los consejos de Manovich, debemos averiguar
 
 Una vez repasadas estas cuestiones, vayamos con los ejemplos escogidos para explicar este proceso:
 
-
+![0*kih7VlMzi2rzh2WH](https://user-images.githubusercontent.com/95685528/145571351-7d3e5e30-8951-4d8a-a157-702778c26d97.jpg)
 
 
 ## CASO 1: Google Stadia
