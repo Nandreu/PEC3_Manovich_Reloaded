@@ -103,6 +103,9 @@ Esta app funciona de una manera muy sencilla. Una vez la tenemos descargada y he
 Primero, tenemos que realizar, a través de la app, una fotografía del lugar en el cual queremos dejar nuestro mensaje (una pared, por ejemplo). A continuación, creamos el mensaje propiamente dicho (dibujo, imagen de la galería…). Posteriormente lo publicamos, pudiendo compartir el resultado con todos los demás usuarios de la app o sólo con aquellos que elijamos. Además, también podremos compartirlo a través de otras aplicaciones como Instagram o Facebook. Finalmente, el mensaje ya publicado estará disponible para que el resto de usuarios que hemos elegido lo vean.
 
 
+![800](https://user-images.githubusercontent.com/95685528/145571064-fc6f7816-3f0e-4c52-8e8d-a89e97392699.jpg)
+
+
 **Aplicación en el ámbito educativo**
 
 Uno de los usos más destacados que pueden hacerse de esta app tiene lugar en el ámbito educativo.
