@@ -45,6 +45,9 @@ Para jugar podemos utilizar teclado y ratón, la propia pantalla (si es táctil)
 Pero, si las funciones que actualmente podemos dar a Stadia son prometedoras, lo son todavía más algunas novedades que google está preparando.
 
 
+![stadia-google-logo](https://user-images.githubusercontent.com/95685528/145564855-19019085-e683-46c6-ab36-6d36098c2ef2.jpg)
+
+
 **Modo bridge**
 
 El modo Bridge te permite usar tu teléfono móvil Android como mando para jugar en tu Android TV.
