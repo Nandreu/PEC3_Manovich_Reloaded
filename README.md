@@ -26,6 +26,7 @@ Una vez repasadas estas cuestiones, vayamos con los ejemplos escogidos para expl
 
 En noviembre de 2019 sale este novedoso proyecto de google, con el cual la multinacional norteamericana pretende romper el mercado de los videojuegos.
 Google Stadia es una plataforma de videojuegos en streaming que te permite jugar a través de cualquier dispositivo compatible con el requisito de que éste pueda ejecutar google Chrome. Es decir, es un servicio de videojuegos que no requiere de ningún hardware adicional, sólo de los dispositivos en los que vamos a jugar.
+
 Entenderemos mejor su funcionamiento con un ejemplo. Spotify es una plataforma para reproducir música la cual podemos usar en nuestro móvil, ordenador… pues Stadia es lo mismo, pero en vez de escuchar música, juegas a videojuegos.
 Este servicio dispone de una versión gratuita, en la cual el único coste es el de los juegos, y de una versión PRO, que te ofrece una serie de juegos gratuitos (que van añadiéndose y actualizándose en tu cuenta mes a mes) y de descuentos.
 
@@ -62,6 +63,8 @@ Ahora, nos adentraremos en por qué, según Manovich, este sería un buen ejempl
 Stadia cumple a la perfección las características que convierten un medio en un híbrido.
 Esta plataforma supone la combinación de una serie de medios ya existentes como el de los videojuegos, el de los dispositivos electrónicos, el de los navegadores y los Chromecast e incluso el de plataformas de reproducción de vídeos (como YouTube), obteniendo como resultado un nuevo medio que nos acerca un poco más al futuro de los videojuegos y el streaming.
 Sin duda alguna, google Stadia supone tanto una nueva forma de representar el mundo de los videojuegos como una nueva forma de interacción con este mundo, pues permite eliminar el factor consola de la ecuación, permite la combinación de dispositivos con los que jugar a un videojuego y permite nuevas experiencias en cuanto a streaming y jugabilidad.
+
+
 
 
 
