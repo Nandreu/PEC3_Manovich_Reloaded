@@ -20,9 +20,10 @@ Finalmente, ¿cómo reconocer una de estas hibridaciones?
 Para poder identificarlas, siguiendo los consejos de Manovich, debemos averiguar si suponen una nueva forma de representar un medio o si ofrecen nuevas experiencias a la hora de interactuar con él.
 
 
-Una vez repasadas estas cuestiones, vayamos con los ejemplos escogidos para explicar este proceso:
-
 ![0*kih7VlMzi2rzh2WH](https://user-images.githubusercontent.com/95685528/145571351-7d3e5e30-8951-4d8a-a157-702778c26d97.jpg)
+
+
+Una vez repasadas estas cuestiones, vayamos con los ejemplos escogidos para explicar este proceso:
 
 
 ## CASO 1: Google Stadia
