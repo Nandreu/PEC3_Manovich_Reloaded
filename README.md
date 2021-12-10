@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 
-##Introducción
+#Introducción
 
 Dado que la hibridación de medios es el tema en torno al que gira este proyecto, comenzaremos recordando un par de cuestiones básicas para entenderlo.
 En primer lugar, ¿qué es la hibridación de medios?
