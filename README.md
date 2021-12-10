@@ -1,5 +1,11 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
+Recurso de aprendizaje de cultura digital
+
+Autor: Noé Andreu
+
+Fecha: 8-12-2021
+
 #Introducción
 
 Dado que la hibridación de medios es el tema en torno al que gira este proyecto, comenzaremos recordando un par de cuestiones básicas para entenderlo.
