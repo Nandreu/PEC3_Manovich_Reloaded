@@ -83,7 +83,7 @@ Sin duda alguna, google Stadia supone tanto una nueva forma de representar el mu
 
 
 
-![unnamed](https://user-images.githubusercontent.com/95685528/145565435-32f1d635-99d2-4b5d-9a55-1b47c337c3b4.jpg)
+
 
 
 Wallame es una novedosa aplicación móvil que incorpora al mundo de las redes sociales la realidad aumentada y la geolocalización.
